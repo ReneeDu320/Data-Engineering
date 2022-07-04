@@ -1,6 +1,4 @@
-# DEND - Data Modeling with PostgreSQL
-
-Jun Zhu
+## Data Modeling with PostgreSQL
 ___
 
 A startup called Sparkify wants to analyze the data they've been collecting on 
